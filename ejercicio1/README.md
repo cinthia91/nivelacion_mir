@@ -9,4 +9,3 @@ Crear el Primer Commit
 Agregar comandos en README
 Crear nuevo Comnit
 Publicar
-git add
